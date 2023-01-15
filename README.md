@@ -104,7 +104,8 @@ The website in the  URL. http://ajayaswin.student.saveetha.in:8000/volume/
 ## OUTPUT:
 
 ### Home Page:
-![output](home.png)
+
+![Screenshot (129)](https://user-images.githubusercontent.com/118679692/212553386-ce23fb8f-983a-4b8b-90b2-1412e24d763b.png)
 
 
 ## Result:
